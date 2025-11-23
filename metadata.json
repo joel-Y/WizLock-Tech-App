@@ -1,0 +1,8 @@
+{
+  "name": "WizSmith Technician Portal",
+  "description": "A progressive web application for WizSmith Technicians to manage TTLock devices, view diagnostics, and perform installations. Note: Native Bluetooth/QR features are simulated for the web environment.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
